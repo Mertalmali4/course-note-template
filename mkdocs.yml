@@ -3,7 +3,7 @@ site_name: Süleyman Mert ALMALI
 docs_dir: docs  # Where to find the English markdown files
 site_dir: site  # Where to put the English HTML files
 site_author: 'Süleyman Mert ALMALI'
-site_url: 'https://mertalmli4.github.io/course-notes-template'
+site_url: 'https://Mertalmali4.github.io/course-notes-template'
 
 site_description_en: >-
     Course Notes Templates
