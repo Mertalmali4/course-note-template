@@ -1,23 +1,23 @@
 # Project information
-site_name: Meslek Tanıtımı
+site_name: Süleyman Mert ALMALI
 docs_dir: docs  # Where to find the English markdown files
 site_dir: site  # Where to put the English HTML files
-site_author: 'Süleyman Mert Almalı'
-site_url: 'https://Mertalmali4.github.io/course-note-template/'
+site_author: 'Süleyman Mert ALMALI'
+site_url: 'https://mertalmli4.github.io/course-notes-template'
 
 site_description_en: >-
-    What is Computer Engineering?
+    Course Notes Templates
 
 site_description_tr: >-
-    Bilgisayar Mühendisliği Nedir?
+    Ders Notu Şablonu
 
 # Repository
 repo_name: 'GitHub'
-repo_url: 'https://github.com/Mertalmali4/course-note-template'
+repo_url: 'https://github.com//course-notes-template'
 edit_uri: ""
 
 # Copyright
-#copyright: Copyright &copy; 2019 - 2022 Asst. Prof. Dr. Uğur CORUH
+copyright: Copyright &copy; 2022-2023 Süleyman Mert ALMALI
 
 #theme:
 #    name: material
@@ -68,14 +68,14 @@ theme:
     
   palette:
     - scheme: default
-      primary: lime
-      accent: lime
+      primary: green
+      accent: green
       toggle:
         icon: material/toggle-switch
         name: Switch to dark mode
     - scheme: slate
-      primary: #4D6773
-      accent: #4D6773
+      primary: red
+      accent: red
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to light mode
@@ -104,7 +104,7 @@ theme:
 extra:
   analytics:
     provider: google
-    #property: !ENV GOOGLE_ANALYTICS_KEY_TEMPLATE
+    property: !ENV GOOGLE_ANALYTICS_KEY_TEMPLATE
     feedback:
       title: Was this page helpful?
       ratings:
@@ -131,9 +131,7 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/Mertalmali4
-    - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/s%C3%BCleyman-mert-almal%C4%B1-a4052b1ab/
-            
+
 # Extensions
 markdown_extensions:
   - admonition
@@ -190,18 +188,18 @@ plugins:
         en:
           name: English
           build: true
-          site_name: "Job Presentation (en)"
+          site_name: "Job Description (en)"
         tr:
           name: Türkçe
           build: true
-          site_name: "Meslek Tanıtımı (tr)"
+          site_name: "Meslek tanıtımı (tr)"
       nav_translations:
         tr:
           Home: 'Ana Sayfa'
-          Syllabus: 'Meslekler'
-          #Course Modules: 'Ders Modülleri'
+          Syllabus: 'Ders İzlencesi'
+          Course Modules: 'Ders Modülleri'
           Week-1 (Sample-1): 'Hafta-1 (Örnek-1)'
-         
+          Week-2 (Sample-2): 'Hafta-2 (Örnek-1)'
           License: 'Lisans'
           Resume: 'Özgeçmiş'
           Changelog: 'Geçmiş'
@@ -256,7 +254,7 @@ nav:
   - Syllabus: syllabus/syllabus.md
   - Course Modules:
     - Week-1 (Sample-1): week-1/week-1.md
-    
+    - Week-2 (Sample-2): week-2/week-2.md
   - License: license.md
   - Resume: resume/index.md
   - Changelog: changelog/index.md
