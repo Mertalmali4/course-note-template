@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+         <loc>https://Mertalmali4.github.io/course-notes-template/</loc>
+         <lastmod>2022-10-25</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://Mertalmali4.github.io/course-notes-template/en/"/>
+         <xhtml:link rel="alternate" hreflang="tr" href="https://Mertalmali4.github.io/course-notes-template/tr/"/>
+         
+    </url>
+    <url>
+         <loc>https://Mertalmali4.github.io/course-notes-template/license/</loc>
+         <lastmod>2022-10-25</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://Mertalmali4.github.io/course-notes-template/en/license/"/>
+         <xhtml:link rel="alternate" hreflang="tr" href="https://Mertalmali4.github.io/course-notes-template/tr/license/"/>
+         
+    </url>
+    <url>
+         <loc>https://Mertalmali4.github.io/course-notes-template/changelog/</loc>
+         <lastmod>2022-10-25</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://Mertalmali4.github.io/course-notes-template/en/changelog/"/>
+         <xhtml:link rel="alternate" hreflang="tr" href="https://Mertalmali4.github.io/course-notes-template/tr/changelog/"/>
+         
+    </url>
+    <url>
+         <loc>https://Mertalmali4.github.io/course-notes-template/resume/</loc>
+         <lastmod>2022-10-25</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://Mertalmali4.github.io/course-notes-template/en/resume/"/>
+         <xhtml:link rel="alternate" hreflang="tr" href="https://Mertalmali4.github.io/course-notes-template/tr/resume/"/>
+         
+    </url>
+    <url>
+         <loc>https://Mertalmali4.github.io/course-notes-template/syllabus/syllabus/</loc>
+         <lastmod>2022-10-25</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://Mertalmali4.github.io/course-notes-template/en/syllabus/syllabus/"/>
+         <xhtml:link rel="alternate" hreflang="tr" href="https://Mertalmali4.github.io/course-notes-template/tr/syllabus/syllabus/"/>
+         
+    </url>
+    <url>
+         <loc>https://Mertalmali4.github.io/course-notes-template/week-1/week-1/</loc>
+         <lastmod>2022-10-25</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://Mertalmali4.github.io/course-notes-template/en/week-1/week-1/"/>
+         <xhtml:link rel="alternate" hreflang="tr" href="https://Mertalmali4.github.io/course-notes-template/tr/week-1/week-1/"/>
+         
+    </url>
+</urlset>
