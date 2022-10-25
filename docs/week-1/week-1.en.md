@@ -65,10 +65,10 @@ Download [DOC](week-1.en.md_doc.pdf), [SLIDE](week-1.en.md_slide.pdf), [PPTX](we
 ## What is Computer Engineering
 
 - Based on Computer Science theory, computers
-anything that can help and make our life easier.
-hardware, software, networks, security
-components, databases, etc. systems with answers
-science produces.
+  anything that can help and make our life easier.
+  hardware, software, networks, security
+  components, databases, etc. systems with answers
+  science produces.
 
 ---
 
@@ -81,11 +81,12 @@ from social media to mobile environments, surgeon robots
 to the vehicles that can park themselves with the innovations it produces.
 It changes our lives in every way.
 
-  ![ w:300 h:300px](assets/bilgisayar.jpg)     ![ w:300 h:300px](assets/robotic.jpg) ![ w:300 h:300px](assets/parking.png)
- 
+  ![ w:300 h:300px](assets/yazılım1.jpg)     ![ w:300 h:300px](assets/parking.jpg) ![ w:300 h:300px](assets/yazılım.jpg)
+
 ---
 
 ## Requirements to Become a Successful Computer Engineer
+
 - Mathematical acumen and problem solving ability
 - Creativity
 - Predisposition to Teamwork
@@ -99,7 +100,7 @@ It changes our lives in every way.
 - Hospital information system automation
 - Finance and banking systems
 - Sectors such as automotive, white goods, textile
-computer aided manufacturing systems
+  computer aided manufacturing systems
 - Entertainment industry
 - Universities and research centers
 - ...
@@ -111,7 +112,7 @@ computer aided manufacturing systems
 ### What Job Title Do They Work in?
 
 - **Canada and Turkey Comparative Table**
-Compared to Canada, we see more people working as computer engineers in Turkey. This shows that it would be more beneficial to develop in the field of computer engineering for those who want to work in Turkey.
+  Compared to Canada, we see more people working as computer engineers in Turkey. This shows that it would be more beneficial to develop in the field of computer engineering for those who want to work in Turkey.
 
 ![bg left:50% w:600px h:300px](assets/grafik1.jpg)
 
